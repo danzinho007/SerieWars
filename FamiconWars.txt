@@ -1,19 +1,26 @@
 Famicon Wars 
 
 https://www.romhacking.net/translations/6101/
-Muda a tela de título : Famicom Wars > NES Wars
+1-Muda a tela de título : Famicom Wars > NES Wars
+
 https://www.romhacking.net/translations/4573/
-Eu acho que é uma 2° tradução
+2-Eu acho que é uma 2° tradução
+
 https://www.romhacking.net/translations/2730/
-Pra quem quer jogar em Francês, baseado na traduçao Inglês do jogo
-https://www.romhacking.net/translations/2590/ = to usando essa !!!
+3-Pra quem quer jogar em Francês, baseado na traduçao Inglês do jogo
+
+https://www.romhacking.net/translations/2590/ 
+4-to usando essa !!!
 Tradução pro Inglês
+
 https://www.romhacking.net/translations/2521/
-Outra trução pro Inglês
+5-Outra trução pro Inglês
+
 https://www.romhacking.net/translations/911/
-Modificou alguns ícones e traduziu pro Inglês
+6-Modificou alguns ícones e traduziu pro Inglês
+
 https://www.romhacking.net/translations/137/
-Tradução incompleta
+7-Tradução incompleta
 
 Mapas : 15
 1- Bean = OK ソラマメジマのマップ
